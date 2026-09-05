@@ -1,0 +1,16 @@
+{
+  "trilhas": [
+    {
+      "id": 1,
+      "tecnologia": "Python",
+      "nivel": "Iniciante",
+      "modulos": ["Lógica de Programação", "Estruturas de Dados", "POO Básica"]
+    },
+    {
+      "id": 2,
+      "tecnologia": "JavaScript",
+      "nivel": "Intermediário",
+      "modulos": ["Manipulação de DOM", "Consumo de APIs", "React Básico"]
+    }
+  ]
+}
